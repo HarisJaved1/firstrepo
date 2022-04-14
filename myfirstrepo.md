@@ -1,4 +1,16 @@
- # 1- Headings
+ _[1. Heading](#1--headings)_\
+**[2. Block of words](#2--adding-block-of-words)**\
+[3. Line Breaks ](#3--line-breaks)\
+[4. Face of Text](#4--face-of-text)\
+[5. Bullets Points](#5--bullets-points)\
+[6. Adding links](#6---links-and-hyper-links)\
+[7. Adding Images](#7--adding-image-with-links)\
+[8. Adding code](#8--adding-code)\
+[9. Adding Tables](#9--adding-tables)\
+[10. Contents](#10--table-of-contents)
+#
+ 
+  # 1- Headings
  # Heading 1
  ## Heading 2
 > it can go upto six ###
@@ -86,14 +98,4 @@ Wow this is working `print("Hello world)`
 
 # 10- Table of contents 
 
-_[1. Heading](#1--headings)_\
-**[2. Block of words](#2--adding-block-of-words)**\
-[3. Line Breaks ](#3--line-breaks)\
-[4. Face of Text](#4--face-of-text)\
-[5. Bullets Points](#5--bullets-points)\
-[6. Adding links](#6---links-and-hyper-links)\
-[7. Adding Images](#7--adding-image-with-links)\
-[8. Adding code](#8--adding-code)\
-[9. Adding Tables](#9--adding-tables)\
-[10. Contents](#10--table-of-contents)
-#
+
